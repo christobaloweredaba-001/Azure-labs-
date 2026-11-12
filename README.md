@@ -1,2 +1,2 @@
-# Azure-labs-
+# Azure-labs
 Azure projects 
